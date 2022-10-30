@@ -32,11 +32,11 @@
     "express": "^4.10.4",
     "minimist": "^1.1.0",
     "redis": "^0.12.1",
-    "socket.io": "^1.2.1",
-    "socket.io-redis": "^0.1.4"
+    "socket.io": "^4.5.3",
+    "socket.io-redis": "^6.1.1"
   },
   "devDependencies": {
-    "browser-sync": "^1.7.2",
+    "browser-sync": "^2.27.10",
     "browserify": "^7.0.0",
     "del": "^1.1.0",
     "gulp": "^3.8.10",
